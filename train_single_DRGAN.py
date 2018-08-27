@@ -3,7 +3,7 @@
 
 import os
 import numpy as np
-from scipy import misc
+from scipy.misc import *
 import pdb
 import matplotlib as mpl
 mpl.use('Agg')
